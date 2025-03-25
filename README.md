@@ -1,2 +1,2 @@
 # TF2: Bots With Random Difficulty
-Make bots use a random difficulty levels with more easy bots then other difficulty bots
+Assigns random difficulty levels to TF2 bots, with a higher chance of selecting a specific difficulty level
